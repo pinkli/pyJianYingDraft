@@ -1,5 +1,13 @@
 __pycache__
 ignored
 
-.venv
-venv
+build/
+dist/
+*.egg-info/
+
+.vscode/
+.idea/
+.DS_Store
+
+.venv/
+venv/
